@@ -1,0 +1,3 @@
+# Fichero empleado para eliminar los ficheros que sobran en producción.
+node_modules
+.env
